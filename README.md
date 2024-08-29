@@ -24,6 +24,12 @@
 ### 2.  Далее для запуска приложения
     выполните: docker compose up --build app
 ### 3. Готово! Приложение будет доступно по адресу: http://127.0.0.1:9999/docs#/
+
+## При тестировании приложения с помощью SwaggerUI:
+### Советую проводить авторизацию с помощью замочков перед попыткой обратиться к /notes 
+![image](https://github.com/user-attachments/assets/ae041894-c470-4b70-ba8d-4b80dc3b5c97)
+![image](https://github.com/user-attachments/assets/0251ce60-7c8e-46fa-bfed-2c7bc77322e4)
+
 ## Интерактивная документация по API
 ![image](https://github.com/user-attachments/assets/03fb8f69-1a5d-49c8-8532-51ad0749af0b)
 
